@@ -1,2 +1,2 @@
-openai>=1.0.0
-tiktoken>=0.6.0
+openai==0.28.1
+tiktoken==0.5.1
