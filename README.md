@@ -29,7 +29,7 @@ Authors:
 cd /path/to/your/working/directory
 
 # Download this repository (If you don't have git, download and unzip the zip file instead.)
-git clone https://github.com/josh92708/nlp_lab
+git clone https://github.com/wkh1267/nlp_lab
 cd nlp_lab
 
 # To check python version
