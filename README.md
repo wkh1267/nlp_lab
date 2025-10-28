@@ -209,7 +209,7 @@ Create your own game
 40 point. (We will select up to three students with the best overall performance to receive a three-point bonus on their final grade.)
 
 #### Submission
-Please submit your assignment on NTU COOL by either uploading a single ZIP file or providing a link to your GitHub repository or Google Drive.
+Please submit your assignment on NTU COOL by providing a link to your GitHub repository or Google Drive.
 
 - Your game
   - Program
