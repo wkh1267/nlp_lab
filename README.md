@@ -167,7 +167,7 @@ Play the **修行的德魯伊(A Druid's Journey, 2023)** game
 - Check results in *lab2_output/* (you should see at least *summary_1.txt*)
 
 #### Scoring
-Finish the game: 20 point.
+Finish the game: 10 point.
 
 ### Submission for Lab 1 + Lab 2.1
 
@@ -206,7 +206,7 @@ Create your own game
 - It must create an enjoyable review for each game run.
 
 #### Scoring
-10 point. (Bonus points may be given depending on the quality of your game.)
+40 point. (We will select up to three students with the best overall performance to receive a three-point bonus on their final grade.)
 
 #### Submission
 You can put in on Github or sumbit all the details directly in a zip file to TA.
