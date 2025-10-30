@@ -206,7 +206,7 @@ Create your own game
 - It must create an enjoyable review for each game run.
 
 #### Scoring
-40 point. (We will select up to three students with the best overall performance to receive a three-point bonus on their final grade.)
+40 point. (We will select up to three students with the best overall performance to receive a two-point bonus on your final grade.)
 
 #### Submission
 Please submit your assignment on NTU COOL by providing a link to your GitHub repository or Google Drive.
